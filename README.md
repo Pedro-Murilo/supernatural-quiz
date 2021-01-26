@@ -30,11 +30,13 @@ I learned a lot of new content about Next and the same time I built a project wi
  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=000" />
 </a>
 
-### How to run this project
+### 📲 How to run this project
 > Step 1: clone this repository by typing `git clone git@github.com:Pedro-Murilo/supernatural-quiz.git`
+
 > Step 2: type `cd supernatural-quiz` and type `yarn`, now wait install all dependencies
+
 > Step 3: type `yarn dev` and open in your browser `http://localhost:3000/`
 
-### Credits
+### 🔵 Credits
 Made with 💜 by me and [Alura](https://github.com/alura-cursos) 💙!
 
