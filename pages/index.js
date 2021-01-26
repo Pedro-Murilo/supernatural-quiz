@@ -28,10 +28,10 @@ export default function Home() {
       <QuizContainer>
         <Widget>
             <Widget.Header>
-              <h1>Anime Quiz</h1>
+              <h1>Supernatural Quiz</h1>
             </Widget.Header>
           <Widget.Content>
-              <p>What you know about animes?</p>
+              <p>Are you really a hunter?</p>
           </Widget.Content>
         </Widget>
 

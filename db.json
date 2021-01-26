@@ -1,5 +1,5 @@
 {
-  "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
+  "bg": "https://wallpapercave.com/wp/wp4073145.png",
   "title": "Quiz CSS da Alura",
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
@@ -25,7 +25,7 @@
   "theme": {
     "colors": {
       "primary": "#252525",
-      "secondary": "#29b6f6",
+      "secondary": "#F42222",
       "mainBg": "#333",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
