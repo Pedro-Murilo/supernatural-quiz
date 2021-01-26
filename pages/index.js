@@ -1,9 +1,14 @@
 import styled from "styled-components";
+
+import HeadTag from '../src/components/HeadTag/HeadTag';
+
 import db from '../db.json';
+
 import Widget  from '../src/components/Widgets/Widget';
 import Footer from '../src/components/Footer/Footer';
 import GitHubCorner from '../src/components/GithubCorner/GithubCorner';
 import QuizBackground from '../src/components/QuizBackground/QuizBackground';
+
 
 const Title = styled.h1`
   font-size: 50px;
@@ -24,6 +29,8 @@ export const QuizContainer = styled.div`
 
 export default function Home() {
   return (
+    <>
+    <HeadTag />
     <QuizBackground backgroundImage={db.bg} >
       <QuizContainer>
         <Widget>
@@ -45,5 +52,6 @@ export default function Home() {
       </QuizContainer>
       <GitHubCorner projectUrl="https://github.com/Pedro-Murilo" />
     </QuizBackground>
+    </>
   );
 }
