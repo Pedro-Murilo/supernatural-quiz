@@ -1,5 +1,5 @@
 <h1 align="center">Supernatural Quiz</h1>
-<p align="center">A quiz app about Supernatural made with NextJS. Let's test your hunter level!</p> 
+<p align="center">A quiz app about Supernatural. Let's test your hunter level!</p> 
 
 <div align="center">
 
