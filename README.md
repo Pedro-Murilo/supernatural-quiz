@@ -12,7 +12,9 @@
   <h2>Follow the Road</h2> 
   <a href="#-about">About</a> |
   <a href="#-tecnologies">Tecnologies</a> |
-  <a href="#-how-to-run-this-project">How to run this project</a>
+  <a href="#-how-to-run-this-project">How to run this project</a> |
+  <a href="#-license">License</a> |
+  <a href="#-credits">Credits</a>
 </div>
 
 ## 📋 About
@@ -36,6 +38,9 @@ I learned a lot of new content about Next and the same time I built a project wi
 > Step 2: type `cd supernatural-quiz` and type `yarn`, now wait install all dependencies
 
 > Step 3: type `yarn dev` and open in your browser `http://localhost:3000/`
+
+### 📄 License
+This project is under MIT license. See the LICENSE file for more details.
 
 ### 🔵 Credits
 Made with 💜 by me and [Alura](https://github.com/alura-cursos) 💙!
