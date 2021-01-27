@@ -10,11 +10,8 @@
 ---
 <div align="center">
   <h2>Follow the Road</h2>
-  
-  <a href="#about">About</a> 
-
-  <a href="#tecnologies">Tecnologies</a> 
-  
+  <a href="#about">About</a>
+  <a href="#tecnologies">Tecnologies</a>
   <a href="#how-to-run-this-project">How to run this project</a>
 </div>
 
