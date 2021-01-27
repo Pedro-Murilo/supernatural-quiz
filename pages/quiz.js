@@ -12,11 +12,11 @@ function LoadingWidget() {
   return (
     <Widget>
       <Widget.Header>
-        Carregando...
+        Loading...
       </Widget.Header>
 
       <Widget.Content>
-        [Desafio do Loading]
+        [Hunting]
       </Widget.Content>
     </Widget>
   );
@@ -34,12 +34,12 @@ function QuestionWidget({
       <Widget.Header>
         {/* <BackLinkArrow href="/" /> */}
         <h3>
-          {`Pergunta ${questionIndex + 1} de ${totalQuestions}`}
+          {`Test ${questionIndex + 1} of ${totalQuestions}`}
         </h3>
       </Widget.Header>
 
       <img
-        alt="Descrição"
+        alt="Description"
         style={{
           width: '100%',
           height: '150px',
@@ -83,7 +83,7 @@ function QuestionWidget({
             {JSON.stringify(question, null, 4)}
           </pre> */}
           <Button type="submit">
-            Confirmar
+            Confirm
           </Button>
         </form>
       </Widget.Content>
@@ -104,10 +104,6 @@ export default function QuizPage() {
   const questionIndex = currentQuestion;
   const question = db.questions[questionIndex];
 
-  // [React chama de: Efeitos || Effects]
-  // React.useEffect
-  // atualizado === willUpdate
-  // morre === willUnmount
   React.useEffect(() => {
     setTimeout(() => {
       setScreenState(screenStates.QUIZ);
@@ -125,7 +121,7 @@ export default function QuizPage() {
 
   return (
     <QuizBackground backgroundImage={db.bg}>
-      <QuizContainer key={1}>
+      <QuizContainer>
         <QuizLogo />
         {screenState === screenStates.QUIZ && (
           <QuestionWidget
@@ -138,7 +134,11 @@ export default function QuizPage() {
 
         {screenState === screenStates.LOADING && <LoadingWidget />}
 
-        {screenState === screenStates.RESULT && <div>Você acertou X questões, parabéns!</div>}
+        {screenState === screenStates.RESULT && (
+        <div>
+          Correct questions = X, congratulations, Hunter!
+        </div>
+        )}
       </QuizContainer>
     </QuizBackground>
   );

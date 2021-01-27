@@ -7,7 +7,7 @@
       "image": "https://i.imgur.com/lF1tM4X.jpg",
       "title": "What symbol is this?",
       "description": "Protect us",
-      "answer": 2,
+      "answer": 0,
       "alternatives": [
         "Anti-possession",
         "Devil's Trap",
@@ -19,12 +19,60 @@
       "image": "https://aodisseia.com/wp-content/uploads/2020/10/bloodymary2-1600x900.jpg",
       "title": "How to invoke Bloody Mary?",
       "description": "Stay away from the mirrors",
-      "answer": 0,
+      "answer": 1,
       "alternatives": [
         "Just look at the mirror",
         "Repeat 'Bloody Mary' in front of mirror three times",
         "Saying 'Hello Bloody Mary' one time in front of mirror",
-        "Just saying 'Bloody Mary' and she will come on "
+        "Just saying 'Bloody Mary' and she will come on"
+      ]
+    },
+    {
+      "image": "https://64.media.tumblr.com/2bf718be371fd8347031ba7eb5b0e7a3/tumblr_mhjjgfVFsv1rsdvsio1_500.gif",
+      "title": "How to protect yourself against demons and spirit?",
+      "description": "We know this, it's easy",
+      "answer": 2,
+      "alternatives": [
+        "Lock all doors",
+        "Making a pact",
+        "Throwing salt around doors and windows",
+        "With a gun"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/1272eae7d6e243a34754403925e46766/tenor.gif?itemid=8915374",
+      "title": "How to kill a witch?",
+      "description": "Don't trust in this",
+      "answer": 0,
+      "alternatives": [
+        "Silver bullet",
+        "Anything that be a weapon",
+        "With sunlight",
+        "Using magic potions"
+      ]
+    },
+    {
+      "image": "https://i.ytimg.com/vi/tHY8TS6DskU/maxresdefault.jpg",
+      "title": "Which weapon can kill any creature?",
+      "description": "I need one of these",
+      "answer": 0,
+      "alternatives": [
+        "The Colt, created by Samuel Colt",
+        "Any weapon with a silver bullet",
+        "A wood",
+        "Ruby knife"
+      ]
+    },
+    {
+      "image": "https://static2.srcdn.com/wordpress/wp-content/uploads/2018/09/Castiel-in-Supernatural-season-6-e1536594205639.jpg",
+      "title": "What does the archangel fire do?",
+      "description": "Who needs angels?",
+      "answer": 3,
+      "alternatives": [
+        "Nothing, because archangels haven't weaknesses",
+        "Protect yourself against angels or archangels",
+        "Kill a archangel",
+        "Catch angels and archangels"
       ]
     }
   ],
