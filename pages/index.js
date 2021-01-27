@@ -46,8 +46,8 @@ export default function Home() {
 
         <Widget>
           <Widget.Content>
-            <h2>Put your quiz here</h2>
-            <p>Lorem ipsum dolor sit</p>
+            <h2>The road is too long, hunter...</h2>
+            <p>You need to make sure you are well trained</p>
           </Widget.Content>
         </Widget>
         <Footer />
