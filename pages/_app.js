@@ -39,7 +39,8 @@ export default function App({ Component, pageProps }) {
           property="og:image"
           content="https://wallpapercave.com/wp/wp4073145.png"
         />
-        <meta property="og:description" content="Let's test if you are ready to hunt!" />
+        <meta name="description" content="Let's test if you are ready to hunt!" />
+
         <link rel="shortcut icon" href="favicon.ico" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
