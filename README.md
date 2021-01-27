@@ -26,6 +26,9 @@ I learned a lot of new content about Next and the same time I built a project wi
 > <a href="https://nextjs.org">
  <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 </a>
+<a href="https://reactjs.org">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ </a> 
 <a href="https://vercel.com/">
  <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
