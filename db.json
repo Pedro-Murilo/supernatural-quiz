@@ -1,23 +1,30 @@
 {
   "bg": "https://wallpapercave.com/wp/wp4073145.png",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "title": "Quiz about Supernatural",
+  "description": "Test your knowledge, hunter!",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
+      "image": "https://i.imgur.com/lF1tM4X.jpg",
+      "title": "What symbol is this?",
+      "description": "Protect us",
       "answer": 2,
-      "alternatives": [".elemento", "*elemento", "#elemento", "%elemento"]
+      "alternatives": [
+        "Anti-possession",
+        "Devil's Trap",
+        "Pentagram",
+        "Sacrecy of Angelic Banishment"
+      ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://aodisseia.com/wp-content/uploads/2020/10/bloodymary2-1600x900.jpg",
+      "title": "How to invoke Bloody Mary?",
+      "description": "Stay away from the mirrors",
       "answer": 0,
       "alternatives": [
-        "background: linear-gradient(#e66465, #9198e5);",
-        "background: gradient(#e66465, #9198e5);"
+        "Just look at the mirror",
+        "Repeat 'Bloody Mary' in front of mirror three times",
+        "Saying 'Hello Bloody Mary' one time in front of mirror",
+        "Just saying 'Bloody Mary' and she will come on "
       ]
     }
   ],
