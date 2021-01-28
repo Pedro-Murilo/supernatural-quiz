@@ -10,14 +10,19 @@
 
 ---
 <p align="center">
-  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/pedro-murilo/supernatural-quiz?color=8A2BE2&style=for-the-badge">
+
+<a href="https://nextjs.org">
+  <img alt="Made with NextJS" src="https://img.shields.io/badge/Made%20with-next.js-000?style=for-the-badge&logo=Next.js" />
+</a>
+
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/pedro-murilo/supernatural-quiz?color=000&style=for-the-badge">
   
-  <img alt="License" src="https://img.shields.io/github/license/pedro-murilo/supernatural-quiz?color=8A2BE2&style=for-the-badge"/>
+  <img alt="License" src="https://img.shields.io/github/license/pedro-murilo/supernatural-quiz?color=000&style=for-the-badge"/>
   
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/pedro-murilo/supernatural-quiz?color=8A2BE2&style=for-the-badge">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/pedro-murilo/supernatural-quiz?color=000&style=for-the-badge">
   
   <a href="https://github.com/Pedro-Murilo/">
-    <img alt="Developed by Pedro" src="https://img.shields.io/badge/Dev-Pedro-%3498db?color=8A2BE2&style=for-the-badge">
+    <img alt="Developed by Pedro" src="https://img.shields.io/badge/Dev-Pedro-%3498db?color=000&style=for-the-badge">
   </a>
 </p>
 
