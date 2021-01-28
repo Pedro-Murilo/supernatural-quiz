@@ -55,12 +55,12 @@ Widget.Topic = styled.a`
   margin-bottom: 8px;
   cursor: pointer;
   border-radius: ${({ theme }) => theme.borderRadius};
-  transition: .3s;
+  transition: .2s;
   display: block;
   
   &:hover,
   &:focus {
-    opacity: .5;
+    background-color: #222b2a
   }
 `;
 
