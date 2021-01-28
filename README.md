@@ -11,7 +11,7 @@
 <div align="center">
   <h2>Follow the Road</h2> 
   <a href="#-about">About</a> |
-  <a href="#-tecnologies">Tecnologies</a> |
+  <a href="#-technologies">Technologies</a> |
   <a href="#-how-to-run-this-project">How to run this project</a> |
   <a href="#-license">License</a> |
   <a href="#-credits">Credits</a>
@@ -22,7 +22,7 @@ This project was developed with NextJS during the Alura immersion. In this proje
 I learned a lot of new content about Next and the same time I built a project with my favorite tv-series! 
 
 ---
-### 🚀 Tecnologies
+### 🚀 Technologies
 > <a href="https://nextjs.org">
  <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 </a>
