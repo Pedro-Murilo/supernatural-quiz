@@ -13,6 +13,7 @@
   <a href="#-about">About</a> |
   <a href="#-technologies">Technologies</a> |
   <a href="#-how-to-run-this-project">How to run this project</a> |
+  <a href="#-contributing">Contributing</a> |
   <a href="#-license">License</a> |
   <a href="#-credits">Credits</a>
 </div>
