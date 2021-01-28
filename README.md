@@ -45,6 +45,18 @@ I learned a lot of new content about Next and the same time I built a project wi
 > Step 3: type `yarn dev` and open in your browser `http://localhost:3000/`
 ---
 
+### 🌱 Contributing
+> <strong>Step 1:</strong> `fork` this repository
+
+> <strong>Step 2:</strong> Add a new branch with your new feature: `git checkout -b my-feature`
+
+> <strong>Step 3:</strong> Commit your new features: `git commit -m "feat: my new feature"`
+
+> <strong>Step 4:</strong> Push to your branch: `git push origin your-branch`
+
+> <strong>Final:</strong> After merge your pull request, you can delete your branch
+
+---
 ### 📄 License
 This project is under MIT license. See the [LICENSE](https://github.com/Pedro-Murilo/supernatural-quiz/blob/main/LICENSE) file for more details.
 
