@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { useRouter } from 'next/router';
+import { motion } from 'framer-motion';
 
 import db from '../db.json';
 
@@ -22,7 +23,16 @@ export default function Home() {
     <QuizBackground backgroundImage={db.bg}>
       <QuizContainer>
         <QuizLogo />
-        <Widget>
+        <Widget
+          as={motion.section}
+          transition={{ delay: 0, duration: 0.3 }}
+          variants={{
+            show: { opacity: 1, y: '0' },
+            hidden: { opacity: 0, y: '100%' },
+          }}
+          initial="hidden"
+          animate="show"
+        >
           <Widget.Header>
             <h1>Supernatural Quiz</h1>
           </Widget.Header>
@@ -45,7 +55,16 @@ export default function Home() {
           </Widget.Content>
         </Widget>
 
-        <Widget>
+        <Widget
+          as={motion.section}
+          transition={{ delay: 0.3, duration: 0.3 }}
+          variants={{
+            show: { opacity: 1, x: '0' },
+            hidden: { opacity: 0, x: '100%' },
+          }}
+          initial="hidden"
+          animate="show"
+        >
           <Widget.Content>
             <h2>Other People Quizzes</h2>
 
@@ -72,7 +91,16 @@ export default function Home() {
             </ul>
           </Widget.Content>
         </Widget>
-        <Footer />
+        <Footer
+          as={motion.footer}
+          transition={{ delay: 0, duration: 0.3 }}
+          variants={{
+            show: { opacity: 1, x: '0', y: '0' },
+            hidden: { opacity: 0, x: '50%', y: '30%' },
+          }}
+          initial="hidden"
+          animate="show"
+        />
       </QuizContainer>
       <GitHubCorner projectUrl="https://github.com/Pedro-Murilo" />
     </QuizBackground>
