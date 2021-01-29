@@ -29,6 +29,7 @@
 ---
 <div align="center">
   <h2>Follow the Road</h2> 
+  <a href="#-final-project">Final Project |
   <a href="#-about">About</a> |
   <a href="#-technologies">Technologies</a> |
   <a href="#-how-to-run-this-project">How to run this project</a> |
@@ -37,6 +38,16 @@
   <a href="#-credits">Credits</a>
 </div>
 
+## ✨ Final Project
+> Vercel: https://supernatural-quiz.pedro-murilo.vercel.app
+
+<p align="center">
+  
+<img alt="Final Project Gif" src="https://github.com/Pedro-Murilo/supernatural-quiz/blob/main/.github/spn-gif.gif" />
+  
+</p>
+
+---
 ## 📋 About
 This project was developed with NextJS during the Alura immersion. In this project we built a quiz app using Styled-Components, Next.Js, and Vercel to deploy the application.
 I learned a lot of new content about Next and the same time I built a project with my favorite tv-series! 
