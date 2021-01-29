@@ -7,12 +7,32 @@
   
 </div>
 
+
+---
+<p align="center" width="300">
+
+<a href="https://nextjs.org">
+  <img alt="Made with NextJS" src="https://img.shields.io/badge/Made%20with-next.js-000?style=for-the-badge&logo=Next.js" />
+</a>
+
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/pedro-murilo/supernatural-quiz?color=000&style=for-the-badge">
+  
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/pedro-murilo/supernatural-quiz?color=000&style=for-the-badge">
+  
+  <img alt="License" src="https://img.shields.io/github/license/pedro-murilo/supernatural-quiz?color=000&style=for-the-badge"/>
+  
+  <a href="https://github.com/Pedro-Murilo/">
+    <img alt="Developed by Pedro" src="https://img.shields.io/badge/Dev-Pedro-%3498db?color=000&style=for-the-badge">
+  </a>
+</p>
+
 ---
 <div align="center">
   <h2>Follow the Road</h2> 
   <a href="#-about">About</a> |
   <a href="#-technologies">Technologies</a> |
   <a href="#-how-to-run-this-project">How to run this project</a> |
+  <a href="#-contributing">Contributing</a> |
   <a href="#-license">License</a> |
   <a href="#-credits">Credits</a>
 </div>
@@ -45,6 +65,18 @@ I learned a lot of new content about Next and the same time I built a project wi
 > Step 3: type `yarn dev` and open in your browser `http://localhost:3000/`
 ---
 
+### 🌱 Contributing
+> <strong>Step 1:</strong> `fork` this repository
+
+> <strong>Step 2:</strong> Add a new branch with your new feature: `git checkout -b my-feature`
+
+> <strong>Step 3:</strong> Commit your new features: `git commit -m "feat: my new feature"`
+
+> <strong>Step 4:</strong> Push to your branch: `git push origin your-branch`
+
+> <strong>Final:</strong> After merge your pull request, you can delete your branch
+
+---
 ### 📄 License
 This project is under MIT license. See the [LICENSE](https://github.com/Pedro-Murilo/supernatural-quiz/blob/main/LICENSE) file for more details.
 
