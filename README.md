@@ -58,13 +58,13 @@ I learned a lot of new content about Next and the same time I built a project wi
 
 ---
 ### 📲 How to run this project
-> Step 1: clone this repository by typing `git clone git@github.com:Pedro-Murilo/supernatural-quiz.git`
+> <strong>Step 1:</strong> clone this repository by typing `git clone git@github.com:Pedro-Murilo/supernatural-quiz.git`
 
-> Step 2: type `cd supernatural-quiz` and type `yarn`, now wait install all dependencies
+> <strong>Step 2:</strong> type `cd supernatural-quiz` and type `yarn`, now wait install all dependencies
 
-> Step 3: type `yarn dev` and open in your browser `http://localhost:3000/`
+> <strong>Step 3:</strong> type `yarn dev` and open in your browser `http://localhost:3000/`
+
 ---
-
 ### 🌱 Contributing
 > <strong>Step 1:</strong> `fork` this repository
 
