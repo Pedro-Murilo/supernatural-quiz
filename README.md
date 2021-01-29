@@ -38,6 +38,7 @@
   <a href="#-credits">Credits</a>
 </div>
 
+---
 ## ✨ Final Project
 > Vercel: https://supernatural-quiz.pedro-murilo.vercel.app
 
