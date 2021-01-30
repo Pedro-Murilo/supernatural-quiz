@@ -1,5 +1,7 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
+import Lottie from 'react-lottie';
+import animationData from '../../lottie/6607-loading-drop.json';
 
 import Widget from '../../components/Widgets/Widget';
 import QuizBackground from '../../components/QuizBackground/QuizBackground';
@@ -42,6 +44,27 @@ function ResultWidget({ results }) {
   );
 }
 
+const LoadingAnimation = () => {
+  const defaultOptions = {
+    loop: true,
+    autoplay: true,
+    animationData,
+    rendererSettings: {
+      preserveAspectRatio: 'xMidYMid slice',
+    },
+  };
+
+  return (
+    <div>
+      <Lottie
+        options={defaultOptions}
+        height={150}
+        width={150}
+      />
+    </div>
+  );
+};
+
 function LoadingWidget() {
   return (
     <Widget>
@@ -50,7 +73,7 @@ function LoadingWidget() {
       </Widget.Header>
 
       <Widget.Content>
-        [Hunting]
+        {LoadingAnimation()}
       </Widget.Content>
     </Widget>
   );
@@ -74,12 +97,12 @@ function QuestionWidget({
       <Widget.Header>
         <BackLinkArrow href="/" />
         <h3>
-          {`Pergunta ${questionIndex + 1} de ${totalQuestions}`}
+          {`Answer ${questionIndex + 1} of ${totalQuestions}`}
         </h3>
       </Widget.Header>
 
       <img
-        alt="Descrição"
+        alt="Description"
         style={{
           width: '100%',
           height: '150px',
@@ -169,7 +192,7 @@ export default function QuizPage({ externalQuestions, externalBg }) {
   React.useEffect(() => {
     setTimeout(() => {
       setScreenState(screenStates.QUIZ);
-    }, 1 * 1000);
+    }, 1 * 3000);
   }, []);
 
   function handleSubmitQuiz() {
@@ -183,8 +206,8 @@ export default function QuizPage({ externalQuestions, externalBg }) {
 
   return (
     <QuizBackground backgroundImage={bg}>
+      <QuizLogo />
       <QuizContainer>
-        <QuizLogo />
         {screenState === screenStates.QUIZ && (
           <QuestionWidget
             question={question}
