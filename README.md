@@ -44,7 +44,7 @@
 
 <p align="center">
   
-<img alt="Final Project Gif" src="https://github.com/Pedro-Murilo/supernatural-quiz/blob/main/.github/spn-final.gif" />
+<img alt="Final Project Gif" src="https://github.com/Pedro-Murilo/supernatural-quiz/blob/main/.github/spngif.gif" />
   
 </p>
 
