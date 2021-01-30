@@ -73,6 +73,9 @@ I learned a lot of new content about Next and the same time I built a project wi
 <a href="https://lottiefiles.com">
  <img alt="Lottie Files" src="https://img.shields.io/badge/React_Lottie%20-%23000000.svg?&style=for-the-badge&color=2cc9b2"/>
 </a>
+<a href="https://yarnpkg.com">
+ <img alt="Yarn" src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+</a>
 
 ---
 ### 📲 How to run this project
