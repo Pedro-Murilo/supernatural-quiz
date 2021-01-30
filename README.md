@@ -29,7 +29,7 @@
 ---
 <div align="center">
   <h2>Follow the Road</h2> 
-  <a href="#-final-project">Final Project |
+  <a href="#-final-project">Final Project</a> |
   <a href="#-about">About</a> |
   <a href="#-technologies">Technologies</a> |
   <a href="#-how-to-run-this-project">How to run this project</a> |
@@ -44,7 +44,7 @@
 
 <p align="center">
   
-<img alt="Final Project Gif" src="https://github.com/Pedro-Murilo/supernatural-quiz/blob/main/.github/spn-gif.gif" />
+<img alt="Final Project Gif" src="https://github.com/Pedro-Murilo/supernatural-quiz/blob/main/.github/spn-final.gif" />
   
 </p>
 
