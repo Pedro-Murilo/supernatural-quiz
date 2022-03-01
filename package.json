@@ -9,7 +9,7 @@
     "lint": "eslint ./ --fix"
   },
   "dependencies": {
-    "framer-motion": "^4.1.17",
+    "framer-motion": "^6.2.8",
     "next": "latest",
     "prop-types": "^15.7.2",
     "react": "^16.8.0",
